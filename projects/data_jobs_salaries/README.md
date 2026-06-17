@@ -5,10 +5,11 @@
 This Power BI dashboard analyzes the global data job market by exploring job demand, salaries, geographic distribution, work arrangements, and hiring trends across different data-related roles.
 
 PROJECT STRUCTURE:
-- [datasets directory]()  
-- [Images directory](images/)  
 - [Power BI Dashboard File (.pbix)](data_jobs_salaries.pbix)  
 - [Readme File]() 
+- [Datasets Directory](../../data/)  
+- [Images Directory](images/)  
+
 
 The dashboard enables users to:
 
